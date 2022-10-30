@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/bg_icons.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/chat_msg_bg.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/circle_avatar.xml" value="0.1140625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/form_outline.xml" value="0.1140625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/round_button.xml" value="0.1140625" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/drawable/round_form.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_chat_screen.xml" value="0.18663303909205547" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_medicine_order.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_mental_health.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_profile_view.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_sign_in.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_sign_up.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/activity_skin_disease.xml" value="0.10132412204951065" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/HealthIssue/app/src/main/res/layout/skin_disease.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/bg_icons.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/bottom_nav.xml" value="0.11851851851851852" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/circle_avatar.xml" value="0.15" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/ic_profile.xml" value="0.15" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/round_button.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/drawable/round_form.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_fever.xml" value="0.5" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_main.xml" value="0.40217391304347827" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_medicine_order.xml" value="0.5" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_order_medicine.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_profile_view.xml" value="0.5" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_sign_in2.xml" value="0.11322463768115942" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/fragment_diet.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/order_medicine.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/profile_info.xml" value="0.5778443113772455" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/layout/profile_view.xml" value="0.10052083333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/YourHealth/app/src/main/res/menu/bottom_nav.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

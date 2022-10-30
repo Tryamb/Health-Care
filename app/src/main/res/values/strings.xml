@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Your Health</string>
+
+    <string name="diet_plan">Grains: 320 gram\n Lentils: 70 gram\n Green Vegetables: 100 gram\n Other Vegetables: 75 gram\n Milk: 250 gram\n Oil/Ghee: 35 gram\n Sugar/Jaggery: 50 gram\n Fruits: 150 gram\n Water:4-5 liters </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short"><u>Sign in</u></string>
+    <string name="horizontal_line">-</string>
+    <string name="welcome_back"><b><u>Welcome Back</u></b></string>
+    <string name="action_sign_up_short"><u>Sign Up</u></string>
+    <string name="default_message_chat">Hello \nHow can i help you ?</string>
+
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="Eczema">"Eczema is a blanket term for several non-contagious conditions that cause inflamed, red, dry, and itchy skin. Doctors aren't sure what makes eczema start in the first place, but they do know that stress, irritants (like soaps), allergens, and climate can trigger flares. In adults, it often appears on the elbows, hands, and in skin folds. Several medications treat eczema. Some are spread over the skin, and others are taken by mouth or as a shot."</string>
+    <string name="Rash_from_plants">"Contact with the oily coating from poison ivy, oak, or sumac causes a rash in many people. It begins with redness and swelling at the site, and then becomes itchy. Blisters usually show up within 12 to 72 hours after you touch the plant. A typical rash looks like a red line, the result of the plant dragging across your skin. An outbreak usually lasts up to 2 weeks. Treatment can include medicine spread on the skin or taken by mouth."</string>
+
+
+    <string name="Hives_Urticaria">Hives look like welts and can itch, sting or burn. They vary in size and sometimes join together. They may appear on any part of you and last anywhere from minutes to days. Causes include extreme temperatures, infections like strep throat, and allergies to medications, foods, and food additives. Antihistamines and skin creams can help.</string>
+    <string name="Acne">"Acne breaks out when a pore clogged with oil and dead skin cells gets inflamed. Pores that stay open and turn dark are called blackheads; completely blocked pores are known as whiteheads. Bacteria and hormones trigger acne, which most often shows up on your face, chest, and back. You can also get pus-filled pimples and cysts. To help control acne, keep oily areas clean and don't squeeze (this may cause infection and scars)." </string>
+    <string name="Psoriasis">"Thick, red patches of skin covered with white or silvery scales are signs of psoriasis. Doctors know how psoriasis works -- your immune system triggers new skin cells to grow too quickly -- but they don't know what causes it.  The patches typically show up on your scalp, elbows, knees, and lower back. They can heal and come back throughout your life.  Treatments include creams and ointments for your skin, light therapy, and medications taken by mouth, injection, or IV."</string>
+    <string name="Mental_health">Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood.</string>
+</resources>
